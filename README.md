@@ -72,37 +72,37 @@ Currently exploring new technologies and improving my backend architecture.
 
 ## 📌 Featured Projects
 
-<p align="center">
+<div align="center">
 
 <!-- Project 1: Utility Bill Management System -->
-<a href="https://github.com/Protap55/utility-bill-client">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=utility-bill-client&theme=tokyonight" />
-</a>
-<br>
-<strong>Utility Bill Management System</strong>  
-A simple and user-friendly utility bill management system that helps users track, pay, and manage their utility bills efficiently.
-
----
+<div style="margin-bottom: 30px;">
+  <a href="https://github.com/Protap55/utility-bill-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=utility-bill-client&theme=tokyonight" />
+  </a>
+  <p><strong>Utility Bill Management System</strong><br>
+  A simple and user-friendly utility bill management system that helps users track, pay, and manage their utility bills efficiently.</p>
+</div>
 
 <!-- Project 2: Apps Store -->
-<a href="https://github.com/Protap55/Apps-store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=Apps-store&theme=tokyonight" />
-</a>
-<br>
-<strong>Apps Store</strong>  
-A contemporary web application built with React that displays popular apps along with information like company name, size, reviews, and download statistics.
-
----
+<div style="margin-bottom: 30px;">
+  <a href="https://github.com/Protap55/Apps-store">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=Apps-store&theme=tokyonight" />
+  </a>
+  <p><strong>Apps Store</strong><br>
+  A contemporary web application built with React that displays popular apps along with information like company name, size, reviews, and download statistics.</p>
+</div>
 
 <!-- Project 3: Game Hub -->
-<a href="https://github.com/Protap55/game-hub/tree/main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=game-hub&theme=tokyonight" />
-</a>
-<br>
-<strong>Game Hub</strong>  
-A digital platform for discovering, searching, and managing games with comprehensive details, user authentication, and adaptive design.
+<div style="margin-bottom: 30px;">
+  <a href="https://github.com/Protap55/game-hub/tree/main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=game-hub&theme=tokyonight" />
+  </a>
+  <p><strong>Game Hub</strong><br>
+  A digital platform for discovering, searching, and managing games with comprehensive details, user authentication, and adaptive design.</p>
+</div>
 
-</p>
+</div>
+
 
 
 ---
