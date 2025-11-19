@@ -77,7 +77,7 @@ Currently exploring new technologies and improving my backend architecture.
 <!-- Project 1: Utility Bill Management System -->
 <div style="margin-bottom: 30px;">
   <a href="https://github.com/Protap55/utility-bill-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=utility-bill-client&theme=tokyonight" />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=Apps-store&theme=tokyonight" />
   </a>
 
 
