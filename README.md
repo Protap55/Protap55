@@ -118,13 +118,4 @@ Currently exploring new technologies and improving my backend architecture.
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Protap55/Protap55/output/github-contribution-grid-snake.svg" />
-</p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Protap55/Protap55/main/assets/wave-separator.svg" width="900"/>
-</p>
