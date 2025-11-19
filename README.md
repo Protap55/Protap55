@@ -3,7 +3,7 @@
 <!-- ============================ -->
 
 <p align="center">
-  <img src="https://i.postimg.cc/9f33fKy2/Gemini-Generated-Image-cgln9icgln9icgln.png" width="900"/>
+  <img src="https://i.postimg.cc/9f33fKy2/Gemini-Generated-Image-cgln9icgln9icgln.png" width="900" height="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Protap Dutta</h1>
