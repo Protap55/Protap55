@@ -4,7 +4,8 @@
 
 <!-- Particle Background Hero -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Protap55/Protap55/main/assets/particle-hero.gif" width="700"/>
+  <!-- <img src="https://raw.githubusercontent.com/Protap55/Protap55/main/assets/particle-hero.gif" width="700"/> -->
+  <img src="https://i.ibb.co/KpRt20yS/Gemini-Generated-Image-cgln9icgln9icgln.png" alt="Gemini-Generated-Image-cgln9icgln9icgln" width="700"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Protap Dutta</h1>
