@@ -16,9 +16,6 @@
   <a href="https://github.com/Protap55">
     <img src="https://komarev.com/ghpvc/?username=protap55&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
-  <a href="https://github-profile-trophy.vercel.app/?username=protap55">
-    <img src="https://github-profile-trophy.vercel.app/?username=protap55&margin-w=8&theme=flat" />
-  </a>
 </p>
 
 ---
@@ -26,6 +23,9 @@
 ## 👨‍💻 About Me  
 I am a passionate **MERN Stack Web Developer** who loves building modern and scalable web applications.  
 Currently exploring new technologies and improving my backend architecture.
+
+- 📧 Email: **protapwith.dev@gmail.com**
+- 📍 Location: **Mirpur-02, Dhaka, Bangladesh**
 
 ---
 
@@ -37,7 +37,7 @@ Currently exploring new technologies and improving my backend architecture.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" />
@@ -70,7 +70,36 @@ Currently exploring new technologies and improving my backend architecture.
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Featured Projects
+<p align="center">
+
+  <!-- Project 1 -->
+  <a href="https://github.com/Protap55/utility-bill-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=utility-bill-client&theme=tokyonight" />
+  </a>
+
+  <!-- Project 2 -->
+  <a href="https://github.com/Protap55/mern-ecommerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=mern-ecommerce&theme=tokyonight" />
+  </a>
+
+  <!-- Project 3 -->
+  <a href="https://github.com/Protap55/react-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=react-dashboard&theme=tokyonight" />
+  </a>
+
+</p>
+
+---
+
+## 🏆 GitHub Achievement & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=protap55&theme=algolia&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 GitHub Stats  
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=protap55&show_icons=true&theme=tokyonight"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protap55&layout=compact&theme=tokyonight"/>
@@ -78,6 +107,20 @@ Currently exploring new technologies and improving my backend architecture.
 
 <p>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=protap55&theme=tokyonight"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=protap55&theme=react-dark" />
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Protap55/Protap55/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
