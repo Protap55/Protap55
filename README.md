@@ -79,26 +79,21 @@ Currently exploring new technologies and improving my backend architecture.
   <a href="https://github.com/Protap55/utility-bill-client">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=utility-bill-client&theme=tokyonight" />
   </a>
-  <p><strong>Utility Bill Management System</strong><br>
-  A simple and user-friendly utility bill management system that helps users track, pay, and manage their utility bills efficiently.</p>
-</div>
+
 
 <!-- Project 2: Apps Store -->
 <div style="margin-bottom: 30px;">
   <a href="https://github.com/Protap55/Apps-store">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=Apps-store&theme=tokyonight" />
   </a>
-  <p><strong>Apps Store</strong><br>
-  A contemporary web application built with React that displays popular apps along with information like company name, size, reviews, and download statistics.</p>
-</div>
+ 
 
 <!-- Project 3: Game Hub -->
 <div style="margin-bottom: 30px;">
   <a href="https://github.com/Protap55/game-hub/tree/main">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=protap55&repo=game-hub&theme=tokyonight" />
   </a>
-  <p><strong>Game Hub</strong><br>
-  A digital platform for discovering, searching, and managing games with comprehensive details, user authentication, and adaptive design.</p>
+ 
 </div>
 
 </div>
