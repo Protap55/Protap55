@@ -1,110 +1,87 @@
 <!-- ============================ -->
-<!-- Final Ultra-Pro Animated GitHub README -->
+<!-- Modern Animated GitHub Banner -->
 <!-- ============================ -->
 
-<!-- Particle Background Hero -->
 <p align="center">
-  <!-- <img src="https://raw.githubusercontent.com/Protap55/Protap55/main/assets/particle-hero.gif" width="700"/> -->
-  <img src="https://i.postimg.cc/9f33fKy2/Gemini-Generated-Image-cgln9icgln9icgln.png" width="700"/>
+  <img src="https://i.postimg.cc/9f33fKy2/Gemini-Generated-Image-cgln9icgln9icgln.png" width="900"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Protap Dutta</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&width=600&lines=MERN+Full-Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+Awesome+Web+Apps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=MERN+Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB+%7C+Express;Turning+Ideas+Into+Real+Web+Applications" />
 </h3>
 
 <p align="center">
   <a href="https://github.com/Protap55">
-    <img src="https://komarev.com/ghpvc/?username=protap55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=protap55&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=protap55" alt="Trophies" />
-  </a>
-</p>
-
-<!-- ============================ -->
-<!-- Social Links -->
-<!-- ============================ -->
-<p align="center">
-  <a href="https://linkedin.com/in/protap-dutta-web-developer" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://fb.com/protap55" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:protapwith.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://github-profile-trophy.vercel.app/?username=protap55">
+    <img src="https://github-profile-trophy.vercel.app/?username=protap55&margin-w=8&theme=flat" />
   </a>
 </p>
 
 ---
 
-### 🔭 Currently Working On
-- [Utility Bill Client](https://github.com/Protap55/utility-bill-client)
-
-### 🌱 Currently Learning
-- Node.js, Express.js, MongoDB, TypeScript
-
-### 👯 Looking to Collaborate On
-- MERN stack projects, Open-source React components, Backend APIs, UI/UX focused web apps
-
-### 🤝 Looking for Help With
-- Improving backend optimization
-
-### 💬 Ask Me About
-- HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB
-
-### 📄 Resume & Experiences
-- [LinkedIn](https://www.linkedin.com/in/protap-dutta-web-developer)
-
-### 👨‍💻 Projects
-<div align="center">
-  <a href="https://github.com/Protap55/project1"><img src="https://img.shields.io/badge/Project-1-blue?style=for-the-badge" alt="Project 1"></a>
-  <a href="https://github.com/Protap55/project2"><img src="https://img.shields.io/badge/Project-2-green?style=for-the-badge" alt="Project 2"></a>
-  <a href="https://github.com/Protap55/project3"><img src="https://img.shields.io/badge/Project-3-red?style=for-the-badge" alt="Project 3"></a>
-</div>
+## 👨‍💻 About Me  
+I am a passionate **MERN Stack Web Developer** who loves building modern and scalable web applications.  
+Currently exploring new technologies and improving my backend architecture.
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+## 🚀 What I'm Doing Now
+- 🔭 Working on **Utility Bill Client**
+- 🌱 Exploring **Next.js**, **TypeScript**, **REST API patterns**
+- ⚙️ Improving backend performance and optimization
+- 🎯 Building UI/UX–focused full-stack applications
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Skills & Technologies
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=protap55&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=protap55&layout=compact&hide=html,css" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="35" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" />
 </p>
 
+---
+
+## 🔗 Connect With Me  
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=protap55&theme=dark" alt="GitHub Streak"/>
+  <a href="https://linkedin.com/in/protap-dutta-web-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://fb.com/protap55">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="mailto:protapwith.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🌊 Wave Separator
+## 📊 GitHub Stats
+<p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=protap55&show_icons=true&theme=tokyonight"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=protap55&layout=compact&theme=tokyonight"/>
+</p>
+
+<p>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=protap55&theme=tokyonight"/>
+</p>
+
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Protap55/Protap55/main/assets/wave-separator.svg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Protap55/Protap55/main/assets/wave-separator.svg" width="900"/>
 </p>
-
----
-
-
